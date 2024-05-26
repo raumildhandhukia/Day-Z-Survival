@@ -8,6 +8,11 @@ ensuring a collaborative and accessible gaming experience.
 In **Day-Z Survival**, you must navigate through a post-apocalyptic world, managing resources, fending off zombies, 
 and seeking out safe zones. Your ultimate goal is to survive as long as possible against the increasing hordes of undead.
 
+![Screen Recording 2024-05-25 at 7 15 42 PM (1)](https://github.com/raumildhandhukia/GameChangers/assets/72497060/291cab20-7f9b-4032-b6e5-f1c05657c17e)
+
+
+
+
 ## Features
 
 - **Top-Down 3D Perspective**: Engage in combat and exploration from a top-down view.
