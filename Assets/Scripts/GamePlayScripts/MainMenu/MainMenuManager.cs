@@ -79,7 +79,7 @@ public class MainMenuManager : MonoBehaviour
 		float percent = 0;
 
 		creditTextT.anchoredPosition = originalCreditTextPosition;
-		yield return new WaitForSeconds(5f);
+		yield return new WaitForSeconds(0f);
 		Vector3 finalCreditTextPosition = new Vector3(originalCreditTextPosition.x, finalCreditTextPositionY, originalCreditTextPosition.z);
 
 		while (percent < 1)
@@ -115,8 +115,8 @@ public class MainMenuManager : MonoBehaviour
 	{
 		exitCanvas.gameObject.SetActive(false);
 		playButton.interactable = true;
-		optionsButton.interactable = true;
-		creditsButton.interactable = true;
+		// optionsButton.interactable = true;
+		// creditsButton.interactable = true;
 		exitButton.interactable = true;
 	}
 
