@@ -3,6 +3,10 @@ Welcome to **Day-Z Survival**, a top-down 3D shooting game set in a zombie apoca
 this game challenges players to survive in a world overrun by zombies. All assets used in this game are open source, 
 ensuring a collaborative and accessible gaming experience.
 
+## Live Demo
+[Play Day-Z Survival on simmer.io]([URL](https://simmer.io/@raumild/day-z-survival))
+
+
 ## Gameplay
 
 In **Day-Z Survival**, you must navigate through a post-apocalyptic world, managing resources, fending off zombies, 
