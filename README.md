@@ -4,7 +4,7 @@ this game challenges players to survive in a world overrun by zombies. All asset
 ensuring a collaborative and accessible gaming experience.
 
 ## Live Demo
-[Play Day-Z Survival on simmer.io]([URL](https://simmer.io/@raumild/day-z-survival))
+[Play Day-Z Survival on simmer.io](https://simmer.io/@raumild/day-z-survival)
 
 
 ## Gameplay
